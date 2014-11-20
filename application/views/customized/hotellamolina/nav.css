@@ -1,0 +1,106 @@
+*{
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 12px;
+    margin: 0px;
+    color:#fff;
+    padding: 0px;
+}
+p,h1,h2,h3,h4{
+    padding: 10px 0px;
+}
+#wrapper{
+    width:520px;
+    overflow: hidden;
+    position: relative;
+    margin: 0px auto;
+}
+.menupestanas{
+    float:left;
+    display: block;
+    list-style: none;
+}
+.menupestanas li:hover,
+.menupestanas li.active{
+    background:#297E9D;
+}
+.menupestanas li{
+    display: block;
+    float:left;
+    width:97px;
+    line-height: 30px;
+    text-align: center;
+    cursor: pointer;
+    background: #4999BA;
+    margin: 5px 3px;
+    color: #fff;
+    font-weight: bold;
+}
+.cabeceratab {
+    overflow: hidden;
+    width: 520px;
+    background: #4999BA;
+    border-bottom: 10px solid #FDA600;
+    text-align: right;
+}
+.cabeceratab strong {
+    color: white;
+    position: relative;
+    top: 83px;
+    left: -10px;
+}
+#logotab {
+    float: left;
+}
+.contpestanas{
+    display: block;
+    width:520px;
+    overflow: hidden;
+    position: relative;
+    background:#4999BA;
+}
+h2{
+    font-weight: bold;
+    font-size: 17px;
+}
+#galgrandes{
+    width:450px;
+    height:298px;
+    display: block;
+    overflow: hidden;
+    z-index:10;
+    position:relative;
+}
+#galgrandes div{
+    position:absolute;
+    z-index: 9;
+    display: none;
+}
+#galgrandes img{
+    width:450px;
+    height:298px;   
+}
+#galminis{
+    position: relative;
+    width:450px;
+    overflow: hidden;
+}
+#galminis img{
+    width:102px;
+    margin: 5px;
+    float:left;
+}
+#galdetalle div{
+    position:relative;
+    width:450px;
+    display: none;
+}
+#galdetalle{
+    position: relative;
+    width:450px;
+    overflow: hidden;
+}
+#cuerpotestimonios{
+    overflow: hidden;
+    background: #fff;
+    padding: 15px 0px;
+}

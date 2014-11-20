@@ -1,0 +1,258 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<response>
+    <deal>
+        <id>the-badlandz</id>
+        <grid4ImageUrl>https://secure-assets.grouponcdn.com/images/site_images/1856/0784/BadLandz-2-90_grid_4.jpg</grid4ImageUrl>
+        <grid6ImageUrl>https://secure-assets.grouponcdn.com/images/site_images/1856/0784/BadLandz-2-90_grid_6.jpg</grid6ImageUrl>
+        <largeImageUrl>https://secure-assets.grouponcdn.com/images/site_images/1856/0784/BadLandz-2-90_medium.jpg</largeImageUrl>
+        <mediumImageUrl>https://secure-assets.grouponcdn.com/images/site_images/1856/0784/BadLandz-2-90_profile.jpg</mediumImageUrl>
+
+        <sidebarImageUrl>https://secure-assets.grouponcdn.com/images/site_images/1856/0784/BadLandz-2-90_sidebar.jpg</sidebarImageUrl>
+        <smallImageUrl>https://secure-assets.grouponcdn.com/images/site_images/1856/0784/BadLandz-2-90_square.jpg</smallImageUrl>
+        <announcementTitle>Up to 54% Off Paintball Outing in Crete</announcementTitle>
+        <areas/>
+        <channels/>
+        <dealTypes>
+            <dealType>
+
+                <name>Adrenaline</name>
+                <id>adrenaline-junkie</id>
+            </dealType>
+            <dealType>
+                <name>Fresh Air</name>
+                <id>fresh-air</id>
+            </dealType>
+
+            <dealType>
+                <name>More the Merrier</name>
+                <id>more-the-merrier</id>
+            </dealType>
+        </dealTypes>
+        <dealUrl>http://www.groupon.com/deals/the-badlandz</dealUrl>
+        <division>
+
+            <lng>-87.6243</lng>
+            <timezone>Central Time (US &amp; Canada)</timezone>
+            <timezoneOffsetInSeconds>-21600</timezoneOffsetInSeconds>
+            <name>Chicago</name>
+            <id>chicago</id>
+
+            <lat>41.8795</lat>
+        </division>
+        <endAt>2011-12-09T05:59:59Z</endAt>
+        <finePrint>Limit 1 per visit, may buy multiple as gifts. Valid only for option purchased. Must be 10 or older. Must sign waiver; under 18 must have parent sign waiver. Not valid for private games or special events.</finePrint>
+        <grouponRating>4.0</grouponRating>
+        <highlightsHtml>&lt;p&gt;Paintball field accommodates beginning to advanced players across more than 400 acres of woodsball, hyperball, airball &amp;amp; x-ball courts&lt;/p&gt;</highlightsHtml>
+
+        <isAutoRefundEnabled>false</isAutoRefundEnabled>
+        <isNowDeal>false</isNowDeal>
+        <isSoldOut>false</isSoldOut>
+        <isTipped>true</isTipped>
+        <merchant>
+            <websiteUrl>http://www.thebadlandz.com</websiteUrl>
+
+            <name>The Badlandz Paintball Field</name>
+            <id>the-badlandz-paintball-field</id>
+        </merchant>
+        <options>
+            <option>
+                <id>1399072</id>
+                <title>Paintball Package for One (a $46 value)</title>
+
+                <soldQuantity>31</soldQuantity>
+                <soldQuantityMessage>31+</soldQuantityMessage>
+                <isSoldOut>false</isSoldOut>
+                <price>
+                    <amount>2300</amount>
+                    <currencyCode>USD</currencyCode>
+
+                    <formattedAmount>$23.00</formattedAmount>
+                </price>
+                <value>
+                    <amount>4600</amount>
+                    <currencyCode>USD</currencyCode>
+                    <formattedAmount>$46.00</formattedAmount>
+                </value>
+
+                <discount>
+                    <amount>2300</amount>
+                    <currencyCode>USD</currencyCode>
+                    <formattedAmount>$23.00</formattedAmount>
+                </discount>
+                <discountPercent>50</discountPercent>
+                <isLimitedQuantity>false</isLimitedQuantity>
+
+                <initialQuantity>0</initialQuantity>
+                <remainingQuantity>0</remainingQuantity>
+                <minimumPurchaseQuantity>1</minimumPurchaseQuantity>
+                <maximumPurchaseQuantity>25</maximumPurchaseQuantity>
+                <expiresAt>2012-07-01T04:59:00Z</expiresAt>
+                <details>
+
+                    <detail>
+                        <description>Limit 1 per visit, may buy multiple as gifts. Valid only for option purchased. Must be 10 or older. Must sign waiver; under 18 must have parent sign waiver. Not valid for private games or special events.</description>
+                    </detail>
+                </details>
+                <redemptionLocations>
+                    <redemptionLocation>
+                        <lng>-87.6193438</lng>
+                        <country>US</country>
+
+                        <streetAddress2></streetAddress2>
+                        <state>Illinois</state>
+                        <phoneNumber>708-862-2222</phoneNumber>
+                        <city>Crete</city>
+                        <name></name>
+                        <postalCode>60417</postalCode>
+                        <neighborhood nil="true"></neighborhood>
+
+                        <lat>41.4062092</lat>
+                        <streetAddress1>306 W Elms Court Ln.</streetAddress1>
+                    </redemptionLocation>
+                </redemptionLocations>
+                <externalUrl nil="true"></externalUrl>
+                <customFields/>
+                <buyUrl>https://www.groupon.com/deals/the-badlandz/confirmation?pledge_id=1399072</buyUrl>
+
+            </option>
+            <option>
+                <id>1399073</id>
+                <title>Paintball Package for Four (a $184 value)</title>
+                <soldQuantity>8</soldQuantity>
+                <soldQuantityMessage>8+</soldQuantityMessage>
+                <isSoldOut>false</isSoldOut>
+
+                <price>
+                    <amount>8400</amount>
+                    <currencyCode>USD</currencyCode>
+                    <formattedAmount>$84.00</formattedAmount>
+                </price>
+                <value>
+                    <amount>18400</amount>
+
+                    <currencyCode>USD</currencyCode>
+                    <formattedAmount>$184.00</formattedAmount>
+                </value>
+                <discount>
+                    <amount>10000</amount>
+                    <currencyCode>USD</currencyCode>
+                    <formattedAmount>$100.00</formattedAmount>
+
+                </discount>
+                <discountPercent>54</discountPercent>
+                <isLimitedQuantity>false</isLimitedQuantity>
+                <initialQuantity>0</initialQuantity>
+                <remainingQuantity>0</remainingQuantity>
+                <minimumPurchaseQuantity>1</minimumPurchaseQuantity>
+
+                <maximumPurchaseQuantity>25</maximumPurchaseQuantity>
+                <expiresAt>2012-07-01T04:59:00Z</expiresAt>
+                <details>
+                    <detail>
+                        <description>Limit 1 per visit, may buy multiple as gifts. Valid only for option purchased. Must be 10 or older. Must sign waiver; under 18 must have parent sign waiver. Not valid for private games or special events.</description>
+                    </detail>
+                </details>
+
+                <redemptionLocations>
+                    <redemptionLocation>
+                        <lng>-87.6193438</lng>
+                        <country>US</country>
+                        <streetAddress2></streetAddress2>
+                        <state>Illinois</state>
+                        <phoneNumber>708-862-2222</phoneNumber>
+
+                        <city>Crete</city>
+                        <name></name>
+                        <postalCode>60417</postalCode>
+                        <neighborhood nil="true"></neighborhood>
+                        <lat>41.4062092</lat>
+                        <streetAddress1>306 W Elms Court Ln.</streetAddress1>
+                    </redemptionLocation>
+
+                </redemptionLocations>
+                <externalUrl nil="true"></externalUrl>
+                <customFields/>
+                <buyUrl>https://www.groupon.com/deals/the-badlandz/confirmation?pledge_id=1399073</buyUrl>
+            </option>
+        </options>
+        <pitchHtml>&lt;p&gt;A trip to the paintball field is the only way to treat an itchy trigger finger, outside of expensive rash creams or firing a water gun carved from a cactus. Scratch the itch for vengeance with today's Groupon to &lt;a href=&quot;http://www.thebadlandz.com&quot;&gt;The Badlandz Paintball Field&lt;/a&gt; in Crete. Choose between the following options:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;For $23, you get a paintball package for one (a $46 value), which includes:
+&lt;ul&gt; 
+&lt;li&gt;Admission for one
+&lt;li&gt;Paintball marker and mask
+&lt;li&gt;200 paintballs
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;li&gt;For $84, you get a paintball package for four (a $184 value), which includes:
+
+&lt;ul&gt;
+&lt;li&gt;Admission for four
+&lt;li&gt;Four paintball markers and masks 
+&lt;li&gt;800 paintballs&lt;/ul&gt;&lt;/ul&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;Originally constructed to host large-scale tournaments, The Badlandz Paintball Field now accommodates recreational play across more than 400 acres of outdoor forts, creeks, and open fields. Open play draws beginning, intermediate, and advanced paintballers into challenging and fun scenarios, with isolated fields that separate players based on ability, equipment type, and &lt;em&gt;Duck Hunt&lt;/em&gt; high scores. Players navigate natural and manmade obstacles as they pummel competitors with polychromatic ammo throughout the woodsball, hyperball, airball, and x-ball courts. Methods of gameplay include elimination, capture the flag, and protect the president, and encourage individual or team strategies such as designating snipers or concealing teammates in piles of chameleons. Badlandz staffers patrol the sprawling arena to enforce rules of play and to ensure that all participants follow the field's stringent safety regulations.&lt;/p&gt;
+        </pitchHtml>
+
+        <placementPriority>nearby</placementPriority>
+        <redemptionLocation>at deal location(s)</redemptionLocation>
+        <says>
+            <websiteContentHtml>&lt;p&gt;Though inconvenient and off-putting, conversing with other humans is a regular part of everyday life. Here are some tips for getting through this ordeal with poise and grace: &lt;/p&gt;
+
+&lt;p&gt;&amp;bull; Nonverbal communication is a huge part of small talk. Roll up in a ball to seem nonthreatening, or splay your arms wide to signify that you are open to new ideas.&lt;/p&gt;
+
+&lt;p&gt;&amp;bull; Your voice can go a long way toward putting people at ease. Imitate the voice of a dead celebrity to help the convo sail along.&lt;/p&gt;
+
+&lt;p&gt;&amp;bull; Avoid controversial topics such as good King George&#8217;s candle tax or the canine suffrage movement.&lt;/p&gt;
+
+&lt;p&gt;&amp;bull; Talk about all-inclusive subjects such as sandwich toppings or what roles you would both assume in a postapocalyptic survival scenario. &lt;/p&gt;
+
+&lt;p&gt;&amp;bull; If there is an awkward pause, reconstruct a trusting environment by taking turns smelling each other&#8217;s hair.&lt;/p&gt;
+            </websiteContentHtml>
+            <emailContentHtml>&lt;p&gt;How can the smell of my hair put my conversation partner at ease? &lt;/p&gt;</emailContentHtml>
+            <websiteContent>Though inconvenient and off-putting, conversing with other humans is a regular part of everyday life. Here are some tips for getting through this ordeal with poise and grace: 
+
+&amp;bull; Nonverbal communication is a huge part of small talk. Roll up in a ball to seem nonthreatening, or splay your arms wide to signify that you are open to new ideas.
+
+&amp;bull; Your voice can go a long way toward putting people at ease. Imitate the voice of a dead celebrity to help the convo sail along.
+
+&amp;bull; Avoid controversial topics such as good King George&#8217;s candle tax or the canine suffrage movement.
+
+&amp;bull; Talk about all-inclusive subjects such as sandwich toppings or what roles you would both assume in a postapocalyptic survival scenario. 
+
+
+&amp;bull; If there is an awkward pause, reconstruct a trusting environment by taking turns smelling each other&#8217;s hair.
+            </websiteContent>
+            <emailContent>How can the smell of my hair put my conversation partner at ease? </emailContent>
+            <title>The Groupon Guide to: Small Talk</title>
+            <id>groupon-says-80430436</id>
+        </says>
+        <shippingAddressRequired>false</shippingAddressRequired>
+
+        <soldQuantity>40</soldQuantity>
+        <soldQuantityMessage>40+</soldQuantityMessage>
+        <startAt>2011-12-06T06:12:05Z</startAt>
+        <status>open</status>
+        <tags>
+            <tag>
+                <name>Arts and Entertainment</name>
+
+            </tag>
+            <tag>
+                <name>Paintball</name>
+            </tag>
+        </tags>
+        <textAd>
+            <headline></headline>
+            <line1></line1>
+
+            <line2></line2>
+        </textAd>
+        <tippingPoint>35</tippingPoint>
+        <title>Paintball Outing with Equipment and Paintballs for One or Four at The Badlandz Paintball Field in Crete (Up to 54% Off)</title>
+        <type>groupon</type>
+        <tippedAt>2011-12-06T15:35:45Z</tippedAt>
+    </deal>
+
+</response>

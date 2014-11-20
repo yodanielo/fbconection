@@ -1,0 +1,718 @@
+Language: English
+Language-Code: en_US
+Build-Date: Mon, 15 Jun 2009 12:18:35 -0600
+
+msgid: "tithome"
+msgstr: "Home"
+
+msgid: "titplans"
+msgstr: "Plans"
+
+msgid: "titexamples"
+msgstr: "Examples"
+
+msgid: "titmypages"
+msgstr: "My Pages"
+
+msgid: "tittemplates"
+msgstr: "Templates"
+
+msgid: "titsettings"
+msgstr: "Settings"
+
+msgid: "tittutorials"
+msgstr: "Tutorials"
+
+msgid: "titvideotutorials"
+msgstr: "Video Tutorials"
+
+msgid: "titgrid"
+msgstr: "Grid"
+
+msgid: "titupgrade"
+msgstr: "Upgrade"
+
+msgid: "titstartover"
+msgstr: "Start Over"
+
+msgid: "titlogin"
+msgstr: "Connect with Facebook"
+
+msgid: "titcoupon"
+msgstr: "Coupon"
+
+msgid: "textlearnquickly"
+msgstr: "Learn Quickly"
+
+msgid: "texthowtobuildfanpage"
+msgstr: "Watch short videos on how to use our platform"
+
+msgid: "btnlogin"
+msgstr: "Login with Facebook"
+
+msgid: "titabout"
+msgstr: "About Us"
+
+msgid: "titsupport"
+msgstr: "Support"
+
+msgid: "tittermsofservice"
+msgstr: "Terms of Service"
+
+msgid: "titprivacypolicy"
+msgstr: "Privacy Policy"
+
+msgid: "titpartnerships"
+msgstr: "Partnerships"
+
+msgid: "titcontactus"
+msgstr: "Contact Us"
+
+msgid: "titwebmap"
+msgstr: "Web Map"
+
+msgid: "titask"
+msgstr: "Ask"
+
+msgid: "titquestions"
+msgstr: "Questions"
+
+msgid: "titfeaturedquestions"
+msgstr: "Featured Questions"
+
+msgid: "txtyourquestions"
+msgstr: "Your Question"
+
+msgid: "textourtemplates"
+msgstr: "Our Templates"
+
+msgid: "textwithourplatform"
+msgstr: "Check the differents Fb Fan Pages that some of our customers have created"
+
+msgid: "findandshare"
+msgstr: "Find and Share solutions in our community"
+
+msgid: "linkcontactus"
+msgstr: "contact_us"
+
+msgid: "thereisonepage"
+msgstr: "There is one page to be upgraded."
+
+msgid: "therearenopages"
+msgstr: "There are no pages to be upgraded."
+
+msgid: "thereareanypages"
+msgstr: "There are <span>{uno}</span> pages to be upgraded."
+
+msgid: "titnewpage"
+msgstr: "Create a New Facebook Fans page"
+
+msgid: "titalert"
+msgstr: "Alert"
+
+msgid: "wid1"
+msgstr: "Add HTML content directly"
+
+msgid: "wid2"
+msgstr: "Insert a Fl element"
+
+msgid: "wid3"
+msgstr: "Allow users to add comments on your wall"
+
+msgid: "wid4"
+msgstr: "Insert your own video"
+
+msgid: "wid5"
+msgstr: "Add an RSS feed"
+
+msgid: "wid7"
+msgstr: "Insert a Youtube video clip"
+
+msgid: "wid8"
+msgstr: "Insert a Mixpod box to share music"
+
+msgid: "wid9"
+msgstr: "Allow users to share your page"
+
+msgid: "wid10"
+msgstr: "Vídeo gallery"
+
+msgid: "wid12"
+msgstr: "Upload or Insert an Image"
+
+msgid: "wid13"
+msgstr: "Insert a Twiter Livestream"
+
+msgid: "wid14"
+msgstr: "Insert a Ustream video clip"
+
+msgid: "wid15"
+msgstr: "Insert a Like button"
+
+msgid: "wid17"
+msgstr: "Insert a text box to your page"
+
+msgid: "wid18"
+msgstr: "Insert Facebook Live Stream"
+
+msgid: "wid19"
+msgstr: "Insert Follow Us button"
+
+msgid: "wid21"
+msgstr: "Add a picture Slideshow"
+
+msgid: "wid22"
+msgstr: "Add a Google Map"
+
+msgid: "wid23"
+msgstr: "Insert a Paypal button"
+
+msgid: "wid24"
+msgstr: "Insert photos hosted by Flickr"
+
+msgid: "wid25"
+msgstr: "Insert photos hosted by Picasa"
+
+msgid: "wid26"
+msgstr: "Insert a Facebook video clip"
+
+msgid: "wid27"
+msgstr: "Insert an iFrame display"
+
+msgid: "wid29"
+msgstr: "Draw a shape on the tab"
+
+msgid: "wid30"
+msgstr: "Insert a contact form"
+
+msgid: "wid32"
+msgstr: "Insert a Skype button"
+
+msgid: "wid33"
+msgstr: "Insert a box of Yelp reviews"
+
+msgid: "wid34"
+msgstr: "Insert a box to share your content in Scribd"
+
+msgid: "wid35"
+msgstr: "Insert a Last.FM box to share music"
+
+msgid: "wid36"
+msgstr: "Insert a Digg Box to share News"
+
+msgid: "wid37"
+msgstr: "Insert a Dailymotion box to share your videos"
+
+msgid: "wid38"
+msgstr: "Add Meetup Box to facilitate offline group meetings"
+
+msgid: "wid39"
+msgstr: "Insert your Zillow Reviews"
+
+msgid: "wid40"
+msgstr: "Countdown"
+
+msgid: "wid41"
+msgstr: "Insert a Ebay button"
+
+msgid: "wid42"
+msgstr: "Share your SlideShare content"
+
+msgid: "wid43"
+msgstr: "Publish a job with LinkedIn"
+
+msgid: "wid44"
+msgstr: "Publish a LinkedIn personal profile"
+
+msgid: "wid45"
+msgstr: "Publish a Linkedin company profile"
+
+msgid: "wid46"
+msgstr: "Insert a «Product Offer» Button"
+
+msgid: "wid47"
+msgstr: "Insert a Mailchimp subscription form"
+
+msgid: "wid48"
+msgstr: "Insert a Groupon<br/>Available to USA"
+
+msgid: "chooseyourtemplate"
+msgstr: "Choose your template"
+
+msgid: "lblwidth"
+msgstr: "Width:"
+
+msgid: "lblheight"
+msgstr: "Height:"
+
+msgid: "lblsendto"
+msgstr: "Send to:"
+
+msgid: "txtnormal"
+msgstr: "Normal"
+
+msgid: "txtfront"
+msgstr: "Front"
+
+msgid: "txtback"
+msgstr: "Back"
+
+msgid: "txtsearch"
+msgstr: "Search"
+
+msgid: "txtfindanyquestion"
+msgstr: "Find any question"
+
+msgid: "txtlookingfor"
+msgstr: "Looking for"
+
+msgid: "txtviewanswers"
+msgstr: "View Answers"
+
+msgid: "lblbackcolor"
+msgstr: "Background Color"
+
+msgid: "lblgradient"
+msgstr: "Gradient"
+
+msgid: "lblbackrepeat"
+msgstr: "Background Repeat"
+
+msgid: "lblpageheight"
+msgstr: "Page Height"
+
+msgid: "lblbackimg"
+msgstr: "Background Image"
+
+msgid: "lblbackalign"
+msgstr: "Background Align"
+
+msgid: "txtnone"
+msgstr: "none"
+
+msgid: "txtlefttop"
+msgstr: "Left Top"
+
+msgid: "txtleftcenter"
+msgstr: "Left Center"
+
+msgid: "txtleftbottom"
+msgstr: "Left Bottom"
+
+msgid: "txtrightop"
+msgstr: "Right Top"
+
+msgid: "txtrightcenter"
+msgstr: "Right Center"
+
+msgid: "txtrightbottom"
+msgstr: "Right Bottom"
+
+msgid: "txtcentertop"
+msgstr: "Center Top"
+
+msgid: "txtcentercenter"
+msgstr: "Center Center"
+
+msgid: "txtcenterbottom"
+msgstr: "Center Bottom"
+
+msgid: "txtdescription"
+msgstr: "Description"
+
+msgid: "btnsend"
+msgstr: "Send"
+
+msgid: "btnsave"
+msgstr: "Save"
+
+msgid: "titcopyto"
+msgstr: "Copy To"
+
+msgid: "titcoupongenerator"
+msgstr: "Coupon Generator"
+
+msgid: "titpageinfo"
+msgstr: "Page Info"
+
+msgid: "lblpagetitle"
+msgstr: "Page Title"
+
+msgid: "lblpagedesc"
+msgstr: "Page Description"
+
+msgid: "btnnext"
+msgstr: "Next"
+
+msgid: "titcolorcustom"
+msgstr: "Color Customization"
+
+msgid: "lbltopbarcolor"
+msgstr: "Top Bar Color"
+
+msgid: "lblcouponscolor"
+msgstr: "Coupons Color"
+
+msgid: "lblbuttoncolor"
+msgstr: "Button Color"
+
+msgid: "btnaddcoupon"
+msgstr: "Add coupon"
+
+msgid: "btnback"
+msgstr: "Back"
+
+msgid: "btnpublish"
+msgstr: "Publish"
+
+msgid: "btnunpublish"
+msgstr: "Unpublish"
+
+msgid: "btndone"
+msgstr: "Done"
+
+msgid: "btncancel"
+msgstr: "Cancel"
+
+msgid: "btnsendmessage"
+msgstr: "Send Message"
+
+msgid: "btnschedule"
+msgstr: "Schedule"
+
+msgid: "btnviewdate"
+msgstr: "View by Date"
+
+msgid: "btnattach"
+msgstr: "Attach"
+
+msgid: "txtnoitemstoshow"
+msgstr: "There are no items to show."
+
+msgid: "txtnoquestionstoshow"
+msgstr: "There are no questions to show."
+
+msgid: "txtscheduledon"
+msgstr: "Scheduled on "
+
+msgid: "txtat"
+msgstr: "at"
+
+msgid: "txtloading"
+msgstr: "Loading..."
+
+msgid: "btnedit"
+msgstr: "Edit"
+
+msgid: "txtarentyou"
+msgstr: "Aren't you?"
+
+msgid: "txtmes1"
+msgstr: "January"
+
+msgid: "txtmes2"
+msgstr: "February"
+
+msgid: "txtmes3"
+msgstr: "March"
+
+msgid: "txtmes4"
+msgstr: "April"
+
+msgid: "txtmes5"
+msgstr: "Mayo"
+
+msgid: "txtmes6"
+msgstr: "June"
+
+msgid: "txtmes7"
+msgstr: "July"
+
+msgid: "txtmes8"
+msgstr: "August"
+
+msgid: "txtmes9"
+msgstr: "September"
+
+msgid: "txtmes10"
+msgstr: "October"
+
+msgid: "txtmes11"
+msgstr: "November"
+
+msgid: "txtmes12"
+msgstr: "December"
+
+msgid: "txtfrom"
+msgstr: "From:"
+
+msgid: "txtto"
+msgstr: "To:"
+
+msgid: "msginvalidrango"
+msgstr: "Invalid date range."
+
+msgid: "listingrange"
+msgstr: "Listing posts from {yy1}, {mm1} {dd1} to {yy1}, {mm2} {dd2}"
+
+msgid: "lblfont"
+msgstr: "Font"
+
+msgid: "txtclicking"
+msgstr: "Now you can visit your Facebook Coupon Page by clicking <a target="_blank" style="color:#0000ff" href="{here}">here</a>"
+
+msgid: "txtlimitposts"
+msgstr: "Due to Facebook Policies you cannot post more than 7 times per day, This is your last post of the day! Thank You."
+
+msgid: "titcongratulations"
+msgstr: "Congratulations!"
+
+msgid: "titsad"
+msgstr: "We are sad"
+
+msgid: "txtactivacion"
+msgstr: "You have just activated a trial period to test our Enterprise Plan."
+
+msgid: "txtunsuscribe"
+msgstr: "But, we have to let you go."
+
+msgid: "txtbadcoupon"
+msgstr: "The coupon code is invalid."
+
+msgid: "tittabcreated"
+msgstr: "Congratulations!"
+
+msgid: "txttabcreated"
+msgstr: "Your Facebook TAB has been created!<br/><br/>If you would like to go to Facebook to see your new TAB click <strong><a target='_blank' href='{here}'>here</a></strong>, otherwise close the window"
+
+msgid: "txtyes"
+msgstr: "Yes"
+
+msgid: "txtno"
+msgstr: "No"
+
+msgid: "txtstartover"
+msgstr: "Are you sure you want to Start Over? You will can't undo this action."
+
+msgid: "txtaddanewtab"
+msgstr: "Add a New TAB to your Facebook Page"
+
+msgid: "txtuser"
+msgstr: "Username"
+
+msgid: "txtpass"
+msgstr: "Password"
+
+msgid: "btnenter"
+msgstr: "Enter"
+
+msgid: "btncancel"
+msgstr: "Cancel"
+
+msgid: "txtwrongpass"
+msgstr: "User or password incorrect"
+
+msgid: "titregister"
+msgstr: "Register"
+
+msgid: "txtcmupdated"
+msgstr: "Message updated successfully."
+
+msgid: "txtcminserted"
+msgstr: "Message registred successfully."
+
+msgid: "ttclicktoupgrade"
+msgstr: "Click to upgrade your page to your current paid or trial plan."
+
+msgid: "ttclickpublish"
+msgstr: "Click PUBLISH to see changes made to your page."
+
+msgid: "ptinicio"
+msgstr: "Free Facebook Fan Page Creator | Facebook Landing Pages Templates | Create Facebook Landing Pages |Free Facebook Layouts | Customize My Facebook Fan Page"
+
+msgid: "ptnosotros"
+msgstr: "Facebook Fan Page Generator Software | How to Make a Fan Page on Facebook | Fan Page Generator | Facebook Fanpage Software | Free Facebook Fan Page Templates"
+
+msgid: "ptplanes"
+msgstr: "Free Facebook Fan Page Creator | Facebook Fan Page Builder | Create Facebook Landing Page | Custom Fan Page Creator | Facebook Fan Page Custom Tab"
+
+msgid: "ptblog"
+msgstr: "Blog | Facebook Social Media Marketing"
+
+msgid: "ptcontactenos"
+msgstr: "Contact Us"
+
+msgid: "ptsoporte"
+msgstr: "Support"
+
+msgid: "ptpoliticas"
+msgstr: "Privacy Policy"
+
+msgid: "ptterminos"
+msgstr: "Terms of Service"
+
+msgid: "ptejemplos"
+msgstr: "Free Facebook Landing Page Templates | Free Fan Page Templates | Facebook Landing Pages Templates | Free Facebook Landing Page Template"
+
+msgid: "ptasociados"
+msgstr: "Partnerships"
+
+msgid: "pdinicio"
+msgstr: "Create the Perfect Facebook Fan Page Design, Engage your Facebook fans"
+
+msgid: "pdnosotros"
+msgstr: "Empower your Facebook Fan Page for your Business , Fb Conexion,  Facilitating being in Conexion, Evanston, Chicago"
+
+msgid: "pdplanes"
+msgstr: "Affordable Prices and Packages on all our Plans, Get more Fan Pages Likes"
+
+msgid: "pdblog"
+msgstr: "Connect your Online Community, Engage your Social Media Strategy, Boost your Facebook Fan Base"
+
+msgid: "pdcontactenos"
+msgstr: "Contact Us, Facilitating being in Conexion"
+
+msgid: "pdsoporte"
+msgstr: "Support, Facilitating being in Conexion"
+
+msgid: "pdpoliticas"
+msgstr: "Privacy Policy, Facilitating being in Conexion"
+
+msgid: "pdterminos"
+msgstr: "Terms of Service, Facilitating being in Conexion"
+
+msgid: "pdejemplos"
+msgstr: "Examples, Facilitating being in Conexion"
+
+msgid: "pdasociados"
+msgstr: "Partnerships, Facilitating being in Conexion"
+
+msgid: "lptxt1"
+msgstr: "Connect with the biggest Social Network of the World<br/>Connect with More than 700 Million Users"
+
+msgid: "lptxt2"
+msgstr: "Create and Design your Facebook Fan Page Free"
+
+msgid: "lptxt4"
+msgstr: "Visit Our Fan Page and get 15 days of PREMIUM Access Free!"
+
+msgid: "lptxt6"
+msgstr: "Are you and Facebook Page Administrator?"
+
+msgid: "lptxt7"
+msgstr: "Design NOW"
+
+msgid: "lptxt8"
+msgstr: "or explore our {link1}HOME{link2}"
+
+msgid: "lptxt9"
+msgstr: "Surprise your Fans on Facebook pages Shocking"
+
+msgid: "lptxt10"
+msgstr: "Generate more fans for your business"
+
+msgid: "lptxt11"
+msgstr: "Log In Facebook and Design Now!"
+
+msgid: "lptxt12"
+msgstr: "If you Aren't<br/>Explore our {link1}HOME{link2}"
+
+msgid: "lptxt13"
+msgstr: "Con Creatividad aumenta tus fans<br/>Experimenta el poder de las redes sociales!"
+
+msgid: "lptxt14"
+msgstr: "Crea y Diseña tu Página de<br/><strong>Facebook Fans</strong><span>GRATIS</span>"
+
+msgid: "txtyoucantcreate"
+msgstr: "You are in a 15 days FREE TRIAL version and you can just create one TAB to create more TABS you must upgrade. Go to Plans to UPGRADE"
+
+msgid: "txtnombrecompleto"
+msgstr: "Full Name"
+
+msgid: "txtnombre"
+msgstr: "First Name"
+
+msgid: "txtapellidos"
+msgstr: "Last Name"
+
+msgid: "txtemail"
+msgstr: "E-mail"
+
+msgid: "txttel"
+msgstr: "Phone"
+
+msgid: "txtcomment"
+msgstr: "Comments"
+
+msgid: "txtfanpageurl"
+msgstr: "Fan Page URL"
+
+msgid: "txtcistomsent"
+msgstr: "Your order is being processed, we'll communicate us with you as soon possible."
+
+msgid: "txtcuentanos"
+msgstr: "<span style="color:#ff0000;font-size: 16px">FB Conexion is FREE!<br/>Tell us your experience to improve our platform</span>"
+
+msgid: "teq1"
+msgstr: "Facility to use widgets"
+
+msgid: "teq2"
+msgstr: "Facility to build your Facebook Fan Page"
+
+msgid: "teq3"
+msgstr: "Friendly and useful templates"
+
+msgid: "teq4"
+msgstr: "Usability"
+
+msgid: "teq5"
+msgstr: "Global Score"
+
+msgid: "teq6"
+msgstr: "Leave a comment"
+
+msgid: "txtenter"
+msgstr: "Enter"
+
+msgid: "txtwelcome"
+msgstr: "Welcome"
+
+msgid: "txtchangepass"
+msgstr: "Change Password"
+
+msgid: "txtlogout"
+msgstr: "Log out"
+
+msgid: "txtpartrep1"
+msgstr: "Users Registered"
+
+msgid: "txtpartrep2"
+msgstr: "Transfer Tab"
+
+msgid: "txtpartrep3"
+msgstr: "Users Converted"
+
+msgid: "txtseemore"
+msgstr: "See more"
+
+msgid: "formatofechamysql"
+msgstr: "%m-%d-%Y"
+
+msgid: "txtpicnik"
+msgstr: "Now you can close this windows and continue editing your fanpage."
+
+msgid: "doyouwishdesign"
+msgstr: "Would you like to be contacted to design your Fan Page?"
+
+msgid: "titdisenodefanpage"
+msgstr: "Facebook fan Page Design Services"
+
+msgid: "txtdelfmanager"
+msgstr: "If you delete this file, is possible some tabs don't run ok. Would you like to continue?"
+
+msgid: "txtsuccesspublish"
+msgstr: "You have successfully unpublished your tab."
+
+msgid: "txtindicaciones"
+msgstr: "Drag a widget to editor box and drop it on the location you like."
+

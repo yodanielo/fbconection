@@ -1,0 +1,292 @@
+@font-face {  
+    font-family: 'CenturyGothicRegular';   
+    src: url('../fonts/gothic-webfont.eot'); 
+    src: url('../fonts/gothic-webfont.eot?#iefix') format('embedded-opentype'),        url('../fonts/gothic-webfont.woff') format('woff'),        url('../fonts/gothic-webfont.ttf') format('truetype'),        url('../fonts/gothic-webfont.svg#CenturyGothicRegular') format('svg');  
+    font-weight: normal; 
+    font-style: normal;
+}
+
+@font-face {    
+    font-family: 'CenturyGothicBold';   
+    src: url('../fonts/gothicb-webfont.eot'); 
+    src: url('../fonts/gothicb-webfont.eot?#iefix') format('embedded-opentype'),        url('../fonts/gothicb-webfont.woff') format('woff'),        url('../fonts/gothicb-webfont.ttf') format('truetype'),        url('../fonts/gothicb-webfont.svg#CenturyGothicBold') format('svg'); 
+    font-weight: normal;  
+    font-style: normal;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+    border: none;
+    font-family: CenturyGothicRegular,Arial,Helvetica,sans-serif;
+    font-size: 12px;
+}
+input[type=text]{
+    border:1px solid #cececf;
+    line-height: 22px;
+    height:22px;
+    padding: 0px;
+    margin: 0px;
+}
+#logincont{
+    width:250px;
+    position: absolute;
+    left: 50%;
+    margin-left: -125px;
+    top:50%;
+    margin-top:-130px;
+}
+#loginlogo{
+    text-align: center;
+}
+#logincuadro .txtlogin{
+    float:left;
+    width:100%;
+    border:1px solid #cececf;
+    line-height: 22px;
+    height:22px;
+}
+#logincuadro label{
+    line-height: 25px;
+    color:#fff;
+    font-size: 13px;
+    float:left;
+    width:100%;
+}
+#logincuadro{
+    display: block;
+    overflow: hidden;
+    padding: 10px;
+    background:#e6a129 url(../images/bglooploginpartner.png) repeat-x;
+    border-radius:10px;
+}
+.logfila{
+    display: block;
+}
+#submitlogin{
+    float:right;
+    line-height: 25px;
+    height:25px;
+    background: #336699 url(../images/bglooploginbtn.png) repeat-x;
+    border:1px solid #fff;
+    border-radius:5px;
+    color: #fff;
+    width:100px;
+    margin-top: 5px;
+}
+#bodyintranet{
+    background: #00A3D8 url('../images/fondo_fbconexion.jpg') center top no-repeat fixed;
+}
+#wrapper{
+    width: 830px;
+    min-height: 600px;
+    margin: 0px auto;
+    padding: 35px 35px 50px 35px;
+    overflow: hidden;
+    background: url(../images/bg_wrapper.png);
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+#logoprincipal{
+    float:left;
+}
+#datossession,
+#datossession *{
+    color:#007AA4;
+}
+#datossession span{
+    font-size: 14px;
+}
+#datossession{
+    float:right;
+    white-space: nowrap;
+    text-align: right;
+}
+#botonera{
+    display:block;
+    overflow: hidden;
+    clear: both;
+    margin: 5px 0px;
+}
+#botonera a {
+    background-color: #E6A129;
+    width: 150px;
+    float: left;
+    line-height: 30px;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-family: CenturyGothicBold,Arial,Helvetica,sans-serif;
+    font-size: 12px;
+    margin-right:5px;
+}
+#header{
+    display:block;
+    overflow: hidden;
+}
+.contreport{
+    background: white;
+    display: block;
+    overflow: hidden;
+    border-radius: 5px;
+    padding: 10px;
+}
+.nohay{
+    text-align: center;
+}
+.regitem{
+    display: block;
+    overflow: hidden;
+}
+.regitem .r1user{
+    display: block;
+    border-bottom: 1px solid #CECECF;
+    padding: 5px 0px;
+    overflow: hidden;
+}
+
+.regitem a {
+    color: #666;
+    font-size: 13px;
+    text-decoration: none;
+}
+.r1userfoto {
+    float: left;
+    margin-right: 10px;
+}
+.r1nombres{
+    font-family: CenturyGothicBold,Arial,Helvetica,sans-serif;
+    font-size: 13px;
+}
+#seemore{
+    display: block;
+    text-align: center;
+    background-color: #E6A129;
+    color: white;
+    line-height: 25px;
+    margin-top: 5px;
+    text-decoration: none;
+}
+.r1pages{
+    display: none;
+    overflow: hidden;
+    margin-left: 60px;
+}
+.r1pageitem img {
+    float: left;
+    margin-right: 10px;
+}
+.r1pageitem {
+    display: block;
+    overflow: hidden;
+    padding: 5px 0px;
+    border-bottom: 1px solid #CECECF;
+}
+.r2type {
+    float: left;
+    width: 350px;
+}
+.r2fans {
+    float: left;
+    width: 200px;
+}
+.btnexpandir{
+    float:right;
+    margin-right: 10px;
+    width:50px;
+    height:50px;
+    background:url(../images/partnerbtnexpandir.png) center no-repeat;
+    cursor:pointer;
+}
+.cuadroform{
+    display: block;
+    overflow: hidden;
+    background: url(http://www.fbconexion.com/images/bg_wrapper.png);
+    border: 1px solid #CECECF;
+    border-radius: 5px;
+    margin: 30px auto;
+    padding: 30px;
+}
+#cuadrott,
+#cuadro_changepass {
+    width: 300px;
+}
+.changefila {
+    display: block;
+    overflow: hidden;
+    padding-right: 2px;
+}
+.changefila label {
+    float: left;
+    width: 100%;
+    line-height: 25px;
+}
+.changefila select,
+.changefila input[type=password],
+.changefila input[type=text] {
+    float: left;
+    border: 1px solid #CECECF;
+    width: 100%;
+    line-height: 22px;
+    height: 20px;
+    padding: 0px;
+    margin: 0px;
+}
+input[type="submit"] {
+    float: right;
+    width: 100px;
+    line-height: 22px;
+    background-color: #E6A129;
+    color: white;
+    cursor: pointer;
+    margin-top: 5px;
+}
+#cuadrosortby {
+    background: white;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    padding: 10px;
+    display: block;
+    overflow: hidden;
+}
+#cuadrosortby label{
+    padding-right: 10px;
+}
+.subsearch {
+    position: relative;
+    top: 8px;
+    border: none;
+    background: white;
+}
+.selsortby {
+    border: 1px solid #CECECF;
+    width:130px;
+}
+
+.separador{
+    padding: 10px;
+    position:relative;
+    font-weight: bold;
+    font-family: CenturyGothicBold,Arial,Helvetica,sans-serif;
+}
+.nocheckederror {
+    color: red;
+    font-weight: bold;
+    text-align: center;
+    display: block;
+    line-height: 25px;
+}
+.msgcheck *
+.msgcheck {
+    color:#cececf;
+}
+.msgcheck {
+    border: 1px solid #CECECF;
+    float: left;
+    width: 288px;
+    margin: 5px 0px;
+    padding: 5px;
+}

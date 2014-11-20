@@ -1,0 +1,75 @@
+*{
+    padding:0px;
+    margin:0px;
+    border:none;
+}
+#login_center {
+    position:absolute;
+    top:50%;
+    width:760px;
+    left:50%;
+    margin-left:-380px;
+    margin-top:-190px;
+    border:1px solid #ccc;
+    padding: 100px 0px;
+}
+#dlgMensajea{
+    float:left;
+    width:286px;
+    /*height:94px;*/
+    border:7px solid #fff;
+    background:#FFDC08;
+    padding-top:42px;
+    text-align: center;
+    font-family: Arial;
+    padding-bottom:25px;
+    font-size: 11px;
+    color:#003982;
+}
+#dlgMensajea a{
+    float:left;
+    width:70px;
+    height:20px;
+    line-height:20px;
+    font-family: Arial;
+    font-size: 11px;
+    color:#fff;
+    background:#003982;
+    margin-left:108px;
+    margin-top:20px;
+    text-decoration: none;
+}
+.login_fila{
+    float:right;
+    width:360px;
+    clear:both;
+    margin-bottom:10px;
+}
+.login_label{
+    float:left;
+    width:100px;
+    line-height:22px;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 12px;
+}
+.login_input{
+    float:left;
+    width:198px;
+    border:1px solid #ccc;
+    line-height:22px;
+    height:20px;
+    padding-left:5px;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 12px;
+}
+.login_submit{
+    float:left;
+    width:100px;
+    margin-left:100px;
+    background:#900;
+    color:#fff;
+    text-align: center;
+    font-size: 12px;
+    font-family: Arial,Helvetica,sans-serif;
+    line-height:20px;
+}

@@ -1,0 +1,21 @@
+Application Details
+
+Company:
+
+Fb Conexion
+
+
+Application Name:
+
+Fb Conexion Widget
+
+
+API Key:
+
+1hxezhntnzdw
+
+
+Secret Key:
+
+sYsEwCngxy1vOQOv
+

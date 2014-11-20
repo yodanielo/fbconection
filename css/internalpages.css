@@ -1,0 +1,68 @@
+/*plans-----------------------------------------------------------------------*/
+#contplans{    float:left; width:880px; margin-top: 20px;}
+
+.planitem{    float:left; width:213px; position:relative;}
+
+.planitem h2{    font-size: 16px; font-family: CenturyGothicBold,Arial,Helvetica,sans-serif; font-weight: bold; text-align: center; color: #fff; float:left; width:213px; padding: 0px; margin: 0px;}
+
+.planitem .plansize{    font-size: 12px; font-family: CenturyGothicBold,Arial,Helvetica,sans-serif; font-weight: bold; text-align: center; color: #E7A227; float:left; width:213px;}
+
+.planitem .planchars{    margin-top:5px; font-size: 12px; text-align: center; color: #fff; float:left; width:213px; height:177px; font-family: CenturyGothicRegular,Arial,Helvetica,sans-serif;}
+
+.planitem .planpresfree{    margin-left:60px; float:left; width:128px; line-height:70px; font-family: CenturyGothicBold,Arial,Helvetica,sans-serif; font-size: 25px; color: #fff; text-align: center; text-shadow: #333 4px 4px 3px;}
+
+.planitem .planprebig span{    color:#fff; font-weight: bold; font-family: CenturyGothicBold,Arial,Helvetica,sans-serif; font-size: 23px; text-shadow: #333 2px 2px 2px;}
+
+.planitem .planpresmall span{    color:#fff; font-size: 13px; text-shadow: #333 1px 2px 1px;}
+
+.planitem .planprebig{    float: left; font-size: 24px; color: white; margin-left: 64px; width: 125px; text-align: center; font-weight: bold; font-family: CenturyGothicBold,Arial,Helvetica,sans-serif; text-shadow: #333 4px 4px 3px;}
+
+.planitem .planpresmall{    float: left; font-size: 20px; color: white; margin-left: 64px; width: 125px; text-align: center; /*font-weight: bold; font-family: CenturyGothicBold,Arial,Helvetica,sans-serif;*/
+
+    text-shadow: #333 1px 2px 1px; font-family: CenturyGothicRegular,Arial,Helvetica,sans-serif;}
+
+.planitem .planbtnupgrade{float: left;width: 102px;line-height: 23px;height: 23px;text-align: center;text-decoration: none;color: black;font-family: CenturyGothicRegular,Arial,Helvetica,sans-serif;font-size: 12px;background: url(../images/planbtnupgrade.png) no-repeat;cursor: pointer;position: absolute;left: 89px;top: 295px;}
+
+#plan3 .planbtnupgrade{    top: 332px;}
+
+#plan4 .planbtnupgrade{    top: 308px;}
+
+#plan1{    height:320px; margin-top:38px; background:url(../images/bg_plan1.png) no-repeat; padding-top:137px;}
+
+#plan2{    height:321px; margin-top:37px; background:url(../images/bg_plan2.png) no-repeat; padding-top: 139px;}
+
+#plan3{    height:320px; margin-top:0px; background:url(../images/bg_plan3.png) no-repeat; padding-top: 175px;}
+
+#plan4{    height:320px; margin-top:24px; background:url(../images/bg_plan4.png) no-repeat; padding-top: 151px;}
+
+/*home------------------------------------------------------------------------*/
+
+#homecontainer{    float:left; width:880px; /*margin-top:10px;*/}
+
+#homeimg { position:relative; height: 310px; background: no-repeat center; width:880px; margin-top:20px; float: left;}
+
+#hometxt2{position: absolute;font-family: CenturyGothicBold,Arial,Helvetica,sans-serif;font-size: 26px;color: #515151;width: 200px;text-align: center;line-height: 120%;left: 668px;top: 139px;}
+
+#hometxt3{position: absolute;font-family: CenturyGothicRegular,Arial,Helvetica,sans-serif;font-size: 16px;color: #2B79A1;width: 198px;text-align: center;line-height: 120%;left: 675px;top: 230px;text-decoration: none;}
+
+#hometxt3 img{width:24px;}
+
+#hometxt1{background: url(../images/btn_landing2_1.png) no-repeat;width: 552px;height: 89px;padding-left: 91px;text-align: center;font-family: CenturyGothicBold,Arial,Helvetica,sans-serif;line-height: 89px;font-size: 21px;color: white;position: absolute;top: 111px;left: 13px; cursor:pointer;}
+
+#hometxt4{float: left; background: url(../images/bg_wrapper.png); width:452px; padding: 10px; font-family: CenturyGothicRegular,Arial,Helvetica,sans-serif;font-size: 12px; color: #000; margin-top: 10px;margin-left: 10px; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; border:1px solid #CECECF;}
+
+#homevideocontainer{float: right; width:380px; height:253px; margin-top:10px; margin-right: 10px;}
+
+.nohay{    font-family: CenturyGothicRegular,Arial,Helvetica,sans-serif; font-size: 12px; color: #000;}
+
+.msgrango{    background: none repeat scroll 0 0 #FFFF81; border: 1px solid #CECECF; font-size: 12px; line-height: 20px; margin-bottom: 5px; font-family: CenturyGothicRegular,Arial,Helvetica,sans-serif; -moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; float: left; width: 783px; padding-left: 5px;}
+
+#closerf{    background: #999; line-height: 12px; height: 14px; float: left; text-decoration: none; color: white; margin-top: 3px; width: 12px; text-align: center; border-radius: 3px; font-family: CenturyGothicBold,Arial,Helvetica,sans-serif;}
+
+/*----------------------------- congratulations ------------------------------*/
+
+#fumensaje h1{    font-size: 35px; color:#E7A227;}
+
+#fumensaje *{    font-family: CenturyGothicRegular,Arial,Helvetica,sans-serif; font-size: 20px;}
+
+#fumensaje{    float: left; padding: 15px; width: 380px; margin-top: 150px; margin-left: 100px;}

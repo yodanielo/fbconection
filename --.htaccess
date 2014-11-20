@@ -1,0 +1,26 @@
+Options FollowSymLinks
+RewriteEngine on
+#RewriteBase /
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php/$1 [L]
+
+php_value upload_max_filesize 120M
+php_value post_max_size 120M
+php_value max_execution_time 2000
+php_value max_input_time 2000
+
+# 480 weeks
+<FilesMatch "\.(ico|pdf|flv|jpg|jpeg|png|gif|js|css|swf)$">
+Header set Cache-Control "max-age=290304000, public"
+</FilesMatch>
+
+# 2 DAYS
+<FilesMatch "\.(xml|txt)$">
+Header set Cache-Control "max-age=172800, public, must-revalidate"
+</FilesMatch>
+
+# 2 HOURS
+<FilesMatch "\.(html|htm)$">
+Header set Cache-Control "max-age=7200, must-revalidate"
+</FilesMatch>

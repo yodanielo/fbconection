@@ -1,0 +1,516 @@
+@font-face {  
+    font-family: 'CenturyGothicRegular';   
+    src: url('http://www.fbconexion.com/fonts/gothic-webfont.eot'); 
+    src: url('http://www.fbconexion.com/fonts/gothic-webfont.eot?#iefix') format('embedded-opentype'),        url('http://www.fbconexion.com/fonts/gothic-webfont.woff') format('woff'),        url('http://www.fbconexion.com/fonts/gothic-webfont.ttf') format('truetype'),        url('http://www.fbconexion.com/fonts/gothic-webfont.svg#CenturyGothicRegular') format('svg');  
+    font-weight: normal; 
+    font-style: normal;
+}
+
+@font-face {    
+    font-family: 'CenturyGothicBold';   
+    src: url('http://www.fbconexion.com/fonts/gothicb-webfont.eot'); 
+    src: url('http://www.fbconexion.com/fonts/gothicb-webfont.eot?#iefix') format('embedded-opentype'),        url('http://www.fbconexion.com/fonts/gothicb-webfont.woff') format('woff'),        url('http://www.fbconexion.com/fonts/gothicb-webfont.ttf') format('truetype'),        url('http://www.fbconexion.com/fonts/gothicb-webfont.svg#CenturyGothicBold') format('svg'); 
+    font-weight: normal;  
+    font-style: normal;
+}
+
+*{
+    margin:0px;
+    padding: 0px;
+    font-family: CenturyGothicRegular,Arial,Helvetica,sans-serif;
+    border:none;
+}
+#wrapper{
+    width:520px;
+    margin:0px auto;
+    overflow: hidden;
+    clear: both;
+}
+#logo{
+    float:right;
+}
+.fbcuadroazul{
+    width:490px;
+    margin:0px auto;
+    background: #0080C9 url(http://www.fbconexion.com/images/bg_fanpagehome.jpg) repeat-x;
+    clear: both;
+    border-radius: 10px;
+    color:#fff;
+}
+.fbcuadroazul#cuadro1{
+    padding: 40px 25px;
+    font-size: 16px;
+    width: 440px;
+    padding-top: 20px;
+}
+#btnfacebook{
+    background: url(http://www.fbconexion.com/images/btn_facebookgrande.png) repeat-x;
+    height:54px;
+    line-height:54px;
+    margin: 0px auto;
+    color: white;
+    font-size: 13px;
+    padding-left: 55px;
+    width: 335px;
+    text-align: center;
+    margin-top: -30px;
+    cursor: pointer;
+}
+.titleseccion{
+    margin:0px auto;
+    line-height: 30px;
+    border-bottom: 1px solid #166E9E;
+    width:470px;
+    text-align: left;
+    padding: 0px 10px;
+    color:#166E9E;
+    font-size:12px;
+}
+.contestrellas{
+    float: right;
+    width: 100px;
+    height: 20px;
+    background: white url(http://www.fbconexion.com/images/estrellas.png) bottom left repeat-x;
+    position: relative;
+}
+.scrollstrella{
+    float:left;
+    width:0px;
+    height: 20px;
+    background: white url(http://www.fbconexion.com/images/estrellas.png) top left repeat-x;
+}
+.comglobo3 .contestrellas,
+.comglobo3 .scrollstrella{
+    background-color: transparent!important;
+}
+.titleseccion .contestrellas{
+    top:5px;
+}
+#cuadro2{
+    display: none;
+    padding: 5px 10px;
+    width: 470px;
+    margin-top:5px;
+}
+#btnvermasenc{
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    padding: 0px;
+    cursor: pointer;
+    line-height: 25px;
+    width: 100px;
+    border-radius: 0px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    background: #E29B1D;
+}
+#btnblog{
+    margin: 0px auto;
+    display: block;
+    width: 482px;
+    margin-top:5px;
+}
+#cuadro3{
+    padding: 20px 10px;
+    width:450px;
+}
+#cuadro3 #c3title{
+    color:#fff;
+    display:block;
+    text-align: left;
+    font-size:17px;
+}
+#cuadrobuscar{
+    display:block;
+    font-size: 12px;
+    margin: 10px 0px;
+    overflow: hidden;
+}
+#cuadrobuscar *{
+    font-size: 12px;
+    line-height: 22px;
+    color:#eca12c;
+    float:left;
+    display: block;
+    white-space: nowrap;
+
+}
+#cuadrobuscar select{
+    float: left;
+    width: 250px;
+    height: 22px;
+    border: 1px solid #CECECF;
+    margin-left: 10px;
+}
+#cuadrobuscar input[type=submit]{
+    width:30px;
+    height:22px;
+    text-align: center;
+    color:#fff;
+    border:none;
+    background:#eca12c;
+    margin-left:10px;
+    border-radius:5px;
+}
+.dtabla{
+    display:table;
+}
+.dfila{
+    display:table-row;
+}
+.dcelda{
+    display:table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+.filaestrella,
+.filaestrella *{
+    font-size: 12px;
+    color: #939393;
+}
+.filaestrella {
+    line-height: 35px;
+    background: white;
+
+    border-radius: 10px;
+    border: 1px solid #ACACAC;
+    display: block;
+    padding: 0px 10px;
+
+}
+.filaestrella .contestrellas{
+    position: relative;
+    top:7px;
+}
+.cuadrocomments{
+    float:right;
+}
+#fabricio{
+    float: right;
+    position: relative;
+    margin-bottom: -59px;
+    margin-right: 35px;
+}
+.comitem {
+    display: block;
+    margin: 0px auto;
+    clear: both;
+    margin-bottom: 10px;
+    overflow:hidden;
+}
+.comavatar {
+    display: block;
+    margin-left: 30px;
+    text-decoration: none;
+    font-size: 12px;
+    color: #2A79A1;
+}
+.comavatar span {
+    color:#000;
+}
+.comglobo1 {
+    background-image: url(http://www.fbconexion.com/images/comments-mid.jpg);
+    height: auto;
+    background-position: center top;
+    background-repeat: repeat-y;
+    background-color: transparent;
+    width: 520px;
+    position: relative;
+    font-size: 10pt;
+    margin: 10px 0 0;
+}
+.comquote{
+    position: absolute;
+    top: 5px;
+    left: 5px;
+}
+.comglobo2{
+    height: auto;
+    background: transparent url(http://www.fbconexion.com/images/comments-top.jpg) no-repeat scroll 0 0;
+}
+.comglobo3{
+    min-height: 50px;
+    -height: 50px;
+    padding: 20px 30px 30px;
+    background-repeat: no-repeat;
+    background-image: url(http://www.fbconexion.com/images/comments-bottom.jpg);
+    background-position: bottom;
+}
+.compuntaje {
+    display: block;
+    font-size: 12px;
+    line-height: 25px;
+    border-bottom: 1px solid #CECECF;
+    font-family: CenturyGothicBold,Arial,Helvetica,sans-serif;
+}
+.comtexto {
+    display: block;
+    font-size: 12px;
+    line-height: 25px;
+    padding: 5px 0px 0px 0px;
+}
+#linkdesign:hover{
+    background-position: top!important;
+}
+#linkdesign {
+    cursor: pointer;
+    width: 184px;
+    height: 60px;
+    border-radius: 10px;
+    border: 3px solid white;
+    clear: both;
+    float: left;
+    margin-left: 30px;
+    border-image: initial;
+}
+#pruebagratis {
+    float: left;
+    width: 195px;
+    line-height: 29px;
+    font-size: 18px;
+    height: 70px;
+    padding: 0px 10px;
+    font-weight: bold;
+    text-align: center;
+}
+.bd2label {
+    float: left;
+    clear: both;
+    width: 250px;
+    line-height: 25px;
+    font-family: CenturyGothicRegular,Arial,Helvetica,sans-serif;
+    font-size: 12px;
+}
+.bd2_6{
+    height:100px;
+}
+input[type=password],
+input[type=text],
+textarea,select,
+.submitreg,
+.edb_text{    float:left; text-align: left; line-height: 25px; height:23px; border: none; -moz-border-radius: 5px; -webkit-border-radius: 5px; border:1px solid #CECECF; color: #000!important; width:250px; font-family: CenturyGothicRegular,Arial,Helvetica,sans-serif; font-size: 12px; padding: 0px;}
+#icovolume.icoplayed{
+    background-position: top!important;
+}
+#icovolume {
+    position:absolute;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+    top: 20px;
+    left:20px;
+    background: url(http://www.fbconexion.com/images/ico_volume2.png) no-repeat bottom;
+}
+#txtmerry{
+    position: absolute;
+    left: 20px;
+    top: 55px;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: bold;
+    color: red;
+}
+#barrashare {
+    position: absolute;
+    right: 17px;
+    top: 43px;
+}
+#combarrasep{
+    display: block;
+    font-size: 1px;
+    height:1px;
+    border:1px solid #000;
+    background:#2A79A1;
+    overflow: hidden;
+    margin: 10px 0px;
+    clear: both;
+}
+#blogbanner{
+    display: block;
+    overflow: hidden;
+    text-align: center;
+}
+#blogseparador{
+    display: block;
+    height: 3px;
+    background: #E39E23;
+    border:1px solid #000;
+    margin: 5px;
+}
+#blogcontenido *{
+    font-family: CenturyGothicRegular,Arial,Helvetica,sans-serif;
+    font-size: 12px;
+}
+.blogitem{
+    border: 1px solid #000;
+    margin: 5px;
+    padding: 10px;
+    overflow: hidden;
+}
+.bidescription a{
+    float:right;
+    clear: both;
+    color:#007AA4;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.bititle{
+    display: block;
+    color:#E39E23;
+    font-size: 15px;
+    font-weight: bold;
+    border-bottom: 1px solid #E39E23;
+    text-decoration: none;
+}
+/*plans ----------------------------------------------------------------------*/
+#bodyplans * {
+    font-family: CenturyGothicRegular,Arial,Helvetica,sans-serif;
+    font-size: 12px;
+}
+#logoplans{
+    width:103px;
+    height:149px;
+    position: absolute;
+    top:0px;
+    left:149px;
+}
+#hptitle{
+    position: absolute;
+    left:288px;
+    top:19px;
+    font-size: 45px;
+    font-weight: bold;
+}
+#headerplans{
+    display: block;
+    overflow: hidden;
+    height: 155px;
+    position: relative;
+}
+.itemplans2,
+.itemplans1{
+    display: block;
+    width: 500px;
+    height: 283px;
+    margin: 0px auto;
+    margin-top: 10px;
+    position:relative;
+    background: url(http://www.fbconexion.com/images/fbplans_bg1.png) no-repeat;
+}
+.itemplans2{
+    background: url(http://www.fbconexion.com/images/fbplans_bg2.png) no-repeat;
+}
+.fppricebox{
+    position: absolute;
+    width:113px;
+    height:113px;
+    left:0px;
+    top:0px;
+    font-size: 20px;
+    color: #fff;
+    font-family: CenturyGothicBold,Arial,Helvetica,sans-serif;
+    text-align: center;
+    line-height: 30px;
+}
+.fppricebox span{
+    font-family: CenturyGothicRegular,Arial,Helvetica,sans-serif;
+    font-size: 16px;
+}
+#fpp1{
+    line-height: 113px;
+    font-size: 30px;
+}
+#fpp4{
+    padding-top: 26px;
+}
+#fpp3,
+#fpp2{
+    font-size: 12px;
+    line-height: 120%;
+    padding-top: 21px;
+}
+#fpp4{
+    padding-top: 21px;
+}
+.fptitle{
+    display: block;
+    text-align: center;
+    font-size: 30px;
+    color: #fff;
+    padding-top: 52px;
+    margin-left:25px;
+}
+.fpcuerpo{
+    width:237px;
+    position: absolute;
+    top:120px;
+    left: 33px;
+    text-align: center;
+    color: #fff;
+    font-size: 12px;
+}
+.fpcuerpo span{
+    color: #E59F26;
+}
+.fbimgplan{
+    width:201px;
+    position: absolute;
+    bottom: 50px;
+    right:22px;
+    text-align: center;
+}
+.fbbuttom{
+    cursor: pointer;
+    position: absolute;
+    bottom:13px;
+    right:56px;
+    background: #fff;
+    text-align: center;
+    line-height: 25px;
+    border:1px solid #cececf;
+    width:130px;
+    color:#666;
+    font-size: 14px;
+    border-radius:5px;
+}
+#fbmostpopular {
+    position: absolute;
+    right: 42px;
+    top: 100px;
+}
+#cuadronews {
+    display: block;
+    width: 300px;
+    margin: 0px auto;
+    clear: both;
+}
+#newsnota {
+    text-align: center;
+    font-weight: bold;
+}
+.frow {
+    display: block;
+    margin-bottom: 5px;
+    overflow: hidden;
+}
+#cuadronews .frow label {
+    float: left;
+    line-height: 25px;
+    width: 100px;
+    padding-left: 50px;
+}
+#cuadronews input[type=text] {
+    float: left;
+    width: 145px;
+}
+
+#cuadronews input[type="submit"] {
+    float: left;
+    margin-left: 150px;
+    background: black;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}

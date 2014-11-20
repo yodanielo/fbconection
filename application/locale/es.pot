@@ -1,0 +1,1123 @@
+Language: English
+Language-Code: en_US
+Build-Date: Mon, 15 Jun 2009 12:18:35 -0600
+
+msgid: "tithome"
+msgstr: "Inicio"
+
+msgid: "titplans"
+msgstr: "Planes"
+
+msgid: "titexamples"
+msgstr: "Ejemplos"
+
+msgid: "titmypages"
+msgstr: "Páginas"
+
+msgid: "tittemplates"
+msgstr: "Plantillas"
+
+msgid: "titsettings"
+msgstr: "Ajustes"
+
+msgid: "tittutorials"
+msgstr: "Tutoriales"
+
+msgid: "titvideotutorials"
+msgstr: "Video Tutoriales"
+
+msgid: "titgrid"
+msgstr: "Grid"
+
+msgid: "titupgrade"
+msgstr: "Actualizar"
+
+msgid: "titstartover"
+msgstr: "Limpiar"
+
+msgid: "titlogin"
+msgstr: "Conéctate con Facebook"
+
+msgid: "titcoupon"
+msgstr: "Cupón"
+
+msgid: "textlearnquickly"
+msgstr: "Aprende Rápidamente"
+
+msgid: "texthowtobuildfanpage"
+msgstr: "Mira pequeños vídeos sobre cómo usar nuestra plataforma"
+
+msgid: "btnlogin"
+msgstr: "Login con Facebook"
+
+msgid: "titabout"
+msgstr: "Acerca de"
+
+msgid: "titsupport"
+msgstr: "Soporte"
+
+msgid: "tittermsofservice"
+msgstr: "Términos de Servicio"
+
+msgid: "titprivacypolicy"
+msgstr: "Política de Privacidad"
+
+msgid: "titpartnerships"
+msgstr: "Asociados"
+
+msgid: "titcontactus"
+msgstr: "Contáctenos"
+
+msgid: "titwebmap"
+msgstr: "Mapa Web"
+
+msgid: "titask"
+msgstr: "Haz Preguntas"
+
+msgid: "titquestions"
+msgstr: "Mira Preguntas"
+
+msgid: "titfeaturedquestions"
+msgstr: "Destacados"
+
+msgid: "txtyourquestions"
+msgstr: "Tu Pregunta"
+
+msgid: "textourtemplates"
+msgstr: "Nuestras Plantillas"
+
+msgid: "textwithourplatform"
+msgstr: "Mira las diferentes Páginas de facebook que crearon nuestros clientes"
+
+msgid: "findandshare"
+msgstr: "Busca y comparte soluciones en nuestra comunidad"
+
+msgid: "linkcontactus"
+msgstr: "contactanos"
+
+msgid: "thereisonepage"
+msgstr: "Queda 1 pagina para ser actualizada."
+
+msgid: "therearenopages"
+msgstr: "no hay páginas para ser actualizadas."
+
+msgid: "thereareanypages"
+msgstr: "Quedan <span>{uno}</span> páginas para ser actualizadas."
+
+msgid: "titnewpage"
+msgstr: "Crear una pagina de Facebook Fans"
+
+msgid: "titalert"
+msgstr: "Alerta"
+
+msgid: "wid1"
+msgstr: "Agregar directamente contenido HTML"
+
+msgid: "wid2"
+msgstr: "Insertar un elemento Flash"
+
+msgid: "wid3"
+msgstr: "Permite a tus usuarios agregar contenido en tu muro"
+
+msgid: "wid4"
+msgstr: "Agrega tu propio video"
+
+msgid: "wid5"
+msgstr: "Agrega un feed RSS"
+
+msgid: "wid7"
+msgstr: "Inserta un video de Youtube"
+
+msgid: "wid8"
+msgstr: "Inserta Mixpod para compartir música"
+
+msgid: "wid9"
+msgstr: "Permita a los usuarios compartir tu página"
+
+msgid: "wid10"
+msgstr: "inserta una Galería de videos de youtube"
+
+msgid: "wid12"
+msgstr: "Sube o Inserta una imágen"
+
+msgid: "wid13"
+msgstr: "Inserta un livestream de twitter"
+
+msgid: "wid14"
+msgstr: "Inserta un video de Ustream"
+
+msgid: "wid15"
+msgstr: "inserta un botón de Me Gusta"
+
+msgid: "wid17"
+msgstr: "inserta texto en tu página"
+
+msgid: "wid18"
+msgstr: "inserta un livestream de Facebook"
+
+msgid: "wid19"
+msgstr: "inserta un botón «Síguenos En»"
+
+msgid: "wid21"
+msgstr: "agrega una galería de imágenes"
+
+msgid: "wid22"
+msgstr: "agrega un mapa de Google"
+
+msgid: "wid23"
+msgstr: "inserta un botón de donaciones Paypal"
+
+msgid: "wid24"
+msgstr: "inserta una galería de fotos de Flikr"
+
+msgid: "wid25"
+msgstr: "inserta una galería de fotos de Picasa"
+
+msgid: "wid26"
+msgstr: "inserta un video de Facebook"
+
+msgid: "wid27"
+msgstr: "inserta un Iframe"
+
+msgid: "wid29"
+msgstr: "dibuja una autoforma en la página"
+
+msgid: "wid30"
+msgstr: "inserta un formulario de contacto"
+
+msgid: "wid32"
+msgstr: "inserta un botón de Skype"
+
+msgid: "wid33"
+msgstr: "Inserta un cuadro de opiniones de Yelp"
+
+msgid: "wid34"
+msgstr: "comparte contenido usando Scribd"
+
+msgid: "wid35"
+msgstr: "Inserta un Last.FM para compartir tu música"
+
+msgid: "wid36"
+msgstr: "Inserta Digg para compartir noticias"
+
+msgid: "wid37"
+msgstr: "comparte un vídeo usando Dailymotion"
+
+msgid: "wid38"
+msgstr: "Agrega Meetup para facilitar encuentros grupales offline"
+
+msgid: "wid39"
+msgstr: "Adjuntatus comentarios de Zillow"
+
+msgid: "wid40"
+msgstr: "Cuenta regresiva"
+
+msgid: "wid41"
+msgstr: "Insertar un boton de Ebay"
+
+msgid: "wid42"
+msgstr: "Comparte contenido Slideshare"
+
+msgid: "wid43"
+msgstr: "Publica una oferta de trabajo en LinkedIn"
+
+msgid: "wid44"
+msgstr: "Publica un perfil personal de LinkedIn"
+
+msgid: "wid45"
+msgstr: "publica el perfil de LinkedIn de una compañia"
+
+msgid: "wid46"
+msgstr: "Inserta un botón de «Oferta de producto»"
+
+msgid: "wid47"
+msgstr: "Inserta un formulario de suscripcion de Mailchimp"
+
+msgid: "wid48"
+msgstr: "Inserta un Groupon<br/>Disponible para USA"
+
+msgid: "chooseyourtemplate"
+msgstr: "Escoje una plantilla"
+
+msgid: "lblwidth"
+msgstr: "Ancho:"
+
+msgid: "lblheight"
+msgstr: "Alto:"
+
+msgid: "lblsendto"
+msgstr: "Enviar a:"
+
+msgid: "txtnormal"
+msgstr: "Normal"
+
+msgid: "txtfront"
+msgstr: "Al Frente"
+
+msgid: "txtback"
+msgstr: "Atras"
+
+msgid: "txtsearch"
+msgstr: "Buscar"
+
+msgid: "txtfindanyquestion"
+msgstr: "Busca preguntas"
+
+msgid: "txtlookingfor"
+msgstr: "Buscando"
+
+msgid: "txtviewanswers"
+msgstr: "Ver Respuestas"
+
+msgid: "lblbackcolor"
+msgstr: "Color de Fondo"
+
+msgid: "lblgradient"
+msgstr: "Gradiente"
+
+msgid: "lblbackrepeat"
+msgstr: "Repetición de fondo"
+
+msgid: "lblpageheight"
+msgstr: "Altura de Página"
+
+msgid: "lblbackimg"
+msgstr: "Imágen de fondo"
+
+msgid: "lblbackalign"
+msgstr: "Alineamiento del fondo"
+
+msgid: "txtnone"
+msgstr: "Ninguno"
+
+msgid: "txtlefttop"
+msgstr: "Izquierda Arriba"
+
+msgid: "txtleftcenter"
+msgstr: "Izquierda Centro"
+
+msgid: "txtleftbottom"
+msgstr: "Izquierda Abajo"
+
+msgid: "txtrightop"
+msgstr: "Derecha Arriba"
+
+msgid: "txtrightcenter"
+msgstr: "Derecho Centro"
+
+msgid: "txtrightbottom"
+msgstr: "Derecha Abajo"
+
+msgid: "txtcentertop"
+msgstr: "Centro Arriba"
+
+msgid: "txtcentercenter"
+msgstr: "Centro Centro"
+
+msgid: "txtcenterbottom"
+msgstr: "Centro Abajo"
+
+msgid: "txtdescription"
+msgstr: "Descripción"
+
+msgid: "btnsend"
+msgstr: "Enviar"
+
+msgid: "btnsave"
+msgstr: "Guardar"
+
+msgid: "titcopyto"
+msgstr: "Copiar A"
+
+msgid: "titcoupongenerator"
+msgstr: "Generador de Cupones"
+
+msgid: "titpageinfo"
+msgstr: "Información de la Página"
+
+msgid: "lblpagetitle"
+msgstr: "Título de la Página"
+
+msgid: "lblpagedesc"
+msgstr: "Descripción de la Página"
+
+msgid: "btnnext"
+msgstr: "Siguiente"
+
+msgid: "titcolorcustom"
+msgstr: "Personalizar Colores"
+
+msgid: "lbltopbarcolor"
+msgstr: "Color de la Barra Top"
+
+msgid: "lblcouponscolor"
+msgstr: "Color de los Cupones"
+
+msgid: "lblbuttoncolor"
+msgstr: "Color de los Botones"
+
+msgid: "btnaddcoupon"
+msgstr: "Agregar Cupón"
+
+msgid: "btnback"
+msgstr: "Atras"
+
+msgid: "btnpublish"
+msgstr: "Publicar"
+
+msgid: "btnunpublish"
+msgstr: "Despublicar"
+
+msgid: "btndone"
+msgstr: "Hecho"
+
+msgid: "btncancel"
+msgstr: "Cancelar"
+
+msgid: "btnsendmessage"
+msgstr: "Enviar Mensaje"
+
+msgid: "btnschedule"
+msgstr: "Agendar"
+
+msgid: "btnviewdate"
+msgstr: "Ver por Fecha"
+
+msgid: "btnattach"
+msgstr: "Adjuntar"
+
+msgid: "txtnoitemstoshow"
+msgstr: "No hay items para mostrar."
+
+msgid: "txtnoquestionstoshow"
+msgstr: "No hay preguntas para mostrar."
+
+msgid: "txtscheduledon"
+msgstr: "Agendado para "
+
+msgid: "txtat"
+msgstr: "a las"
+
+msgid: "txtloading"
+msgstr: "Cargando..."
+
+msgid: "btnedit"
+msgstr: "Editar"
+
+msgid: "txtarentyou"
+msgstr: "¿No eres tú?"
+
+msgid: "txtmes1"
+msgstr: "Enero"
+
+msgid: "txtmes2"
+msgstr: "Febrero"
+
+msgid: "txtmes3"
+msgstr: "Marzo"
+
+msgid: "txtmes4"
+msgstr: "Abril"
+
+msgid: "txtmes5"
+msgstr: "Mayo"
+
+msgid: "txtmes6"
+msgstr: "Junio"
+
+msgid: "txtmes7"
+msgstr: "Julio"
+
+msgid: "txtmes8"
+msgstr: "Agosto"
+
+msgid: "txtmes9"
+msgstr: "Setiembre"
+
+msgid: "txtmes10"
+msgstr: "Octubre"
+
+msgid: "txtmes11"
+msgstr: "Noviembre"
+
+msgid: "txtmes12"
+msgstr: "Diciembre"
+
+msgid: "txtfrom"
+msgstr: "Desde:"
+
+msgid: "txtto"
+msgstr: "Hasta:"
+
+msgid: "msginvalidrango"
+msgstr: "El rango de fechas no es válido"
+
+msgid: "listingrange"
+msgstr: "Listando entradas desde {dd1} de {mm1} de {yy1} hasta {dd2} de {mm2} de {yy1}"
+
+msgid: "lblfont"
+msgstr: "Fuente"
+
+msgid: "txtclicking"
+msgstr: "Ahora puedes visitar to Cupón en Facebook haciendo click <a target="_blank" style="color:#0000ff" href="{here}">aquí</a>"
+
+msgid: "txtlimitposts"
+msgstr: "No puedes publicar mas de 7 veces por dia debido a politicas de Facebook, gracias."
+
+msgid: "titcongratulations"
+msgstr: "¡Felicidades!"
+
+msgid: "titsad"
+msgstr: "Estamos tristes"
+
+msgid: "txtactivacion"
+msgstr: "Acabas de activar un periodo de prueba para probar nuestro plan Enterprise."
+
+msgid: "txtunsuscribe"
+msgstr: "Pero tenemos que dejarte ir."
+
+msgid: "txtbadcoupon"
+msgstr: "El código del cupón no es válido."
+
+msgid: "tittabcreated"
+msgstr: "Felicitaciones!"
+
+msgid: "txttabcreated"
+msgstr: "Su TAB de Facebook ha sido creado!<br/><br/>Si le gustaria ir a su pagina de Facebook para ver su nuevo TAB haga click <strong><a target='_blank' href='{here}'>aqui</a></strong>, sino solo cierre su ventana."
+
+msgid: "txtyes"
+msgstr: "Si"
+
+msgid: "txtno"
+msgstr: "No"
+
+msgid: "txtstartover"
+msgstr: "¿Está seguro que quiere empezar de nuevo? No podrá deshacer ésta acción."
+
+msgid: "txtaddanewtab"
+msgstr: "Agrega un Nuevo TAB a tu Pagina de Facebook"
+
+msgid: "txtuser"
+msgstr: "Usuario"
+
+msgid: "txtpass"
+msgstr: "Contraseña"
+
+msgid: "btnenter"
+msgstr: "Entrar"
+
+msgid: "btncancel"
+msgstr: "Cancelar"
+
+msgid: "txtwrongpass"
+msgstr: "Usuario o Contraseña incorrectas"
+
+msgid: "titregister"
+msgstr: "Registro"
+
+msgid: "txtcmupdated"
+msgstr: "Mensaje actualizado satisfactoriamente."
+
+msgid: "txtcminserted"
+msgstr: "Mensaje registrado satisfactoriamente."
+
+msgid: "ttclicktoupgrade"
+msgstr: "Click para actualizar tu página al plan actual o trial."
+
+msgid: "ttclickpublish"
+msgstr: "Click PUBLICAR para ver los cambios hechos en su pagina."
+
+msgid: "ptinicio"
+msgstr: "Inicio | Crear Facebook Fan Pages"
+
+msgid: "ptnosotros"
+msgstr: "Nosotros | Facebook Redes Sociales Empresa"
+
+msgid: "ptplanes"
+msgstr: "Planes | Oferta GRATIS Facebook Tabs"
+
+msgid: "ptblog"
+msgstr: "Blog | Facebook Marketing Redes Sociales"
+
+msgid: "ptcontactenos"
+msgstr: "Contactenos"
+
+msgid: "ptsoporte"
+msgstr: "Soporte"
+
+msgid: "ptpoliticas"
+msgstr: "Politica de Privacidad"
+
+msgid: "ptterminos"
+msgstr: "Terminos de Servicio"
+
+msgid: "ptejemplos"
+msgstr: "Ejemplos"
+
+msgid: "ptasociados"
+msgstr: "Asociados"
+
+msgid: "pdinicio"
+msgstr: "Fb Conexion – Personaliza GRATIS tus Paginas Facebook Fans de manera rapida y divertida, Crea, Diseña Pagina de fans Empresa, Mejora tu club de fans, Clicks Me Gusta, Promociona, Interactua con tu comunidad virtual, Crece"
+
+msgid: "pdnosotros"
+msgstr: "Fb Conexion –  Experiencia en Marketing de Redes Sociales , Integrate con la red social Facebook, Campañas de Facebook  para empresas o  negocios, Facilitating being in Conexion, Fb Conexion, Evanston, Chicago"
+
+msgid: "pdplanes"
+msgstr: "Fb Conexion – Promociona GRATIS tu  pagina de fans de Facebook, Planes accesibles para tu Empresa o Negocio con opciones avanzadas, cupones, administrador de relaciones publicas, social widgets, unlimited tabs"
+
+msgid: "pdblog"
+msgstr: "Fb Conexion – Conectate y fideliza con tu comunidad virtual, Integrate con las Redes Sociales y Facebook, Impacta con tus Paginas Facebook Fans"
+
+msgid: "pdcontactenos"
+msgstr: "Fb Conexion – Contactenos, Facilitating being in Conexion"
+
+msgid: "pdsoporte"
+msgstr: "Fb Conexion – Soporte, Facilitating being in Conexion"
+
+msgid: "pdpoliticas"
+msgstr: "Fb Conexion – Politica de Privacidad, Facilitating being in Conexion "
+
+msgid: "pdterminos"
+msgstr: "Fb Conexion – Terminos de Servicio, Facilitating being in Conexion"
+
+msgid: "pdejemplos"
+msgstr: "Fb Conexion – Ejemplos, Facilitating being in Conexion"
+
+msgid: "pdasociados"
+msgstr: "Fb Conexion – Asociados, Facilitating being in Conexion"
+
+msgid: "lptxt1"
+msgstr: "Conéctate con tus Fans en Facebook, <strong>se parte de la Web 2.0</strong>"
+
+msgid: "lptxt1-1"
+msgstr: "Crea Impresionantes Páginas de Fans para tu Empresa"
+
+msgid: "lptxt2"
+msgstr: "Gran Variedad de Landing Pages para personalizar tu marca"
+
+msgid: "lptxt4"
+msgstr: "Visita Nuestro Fan Page y obtén 15 días de Acceso PREMIUM Gratis!"
+
+msgid: "lptxt6"
+msgstr: "¿Eres Administrador de una página en facebook?"
+
+msgid: "lptxt7"
+msgstr: "Diseña AHORA"
+
+msgid: "lptxt8"
+msgstr: "o explora nuestra {link1}HOME{link2}"
+
+msgid: "lptxt9"
+msgstr: "Personaliza la experiencia de tus fans con Impactantes Facebook Fan Pages"
+
+msgid: "lptxt9-1"
+msgstr: "Crea Pestañas en Facebook como un experto - Gran variedad de Templates"
+
+msgid: "lptxt10"
+msgstr: "Estar en Facebook es hacer Marketing Viral"
+
+msgid: "lptxt11"
+msgstr: "Loguéate con Facebook y Diseña Ahora!"
+
+msgid: "lptxt12"
+msgstr: "Si no lo eres<br/>Explora nuestra {link1}HOME{link2}"
+
+msgid: "lptxt13"
+msgstr: "Con Creatividad diseña impresionantes Facebook Fan Pages"
+
+msgid: "lptxt13-1"
+msgstr: "Experimenta el poder de las redes sociales y la Web 2.0!"
+
+msgid: "lptxt13-2"
+msgstr: "Genera más fans para tu empresa"
+
+msgid: "lptxt14"
+msgstr: "Crea y Diseña tu Página de<br/><strong>Facebook Fans</strong><br/><span>GRATIS</span>"
+
+msgid: "lptxt15"
+msgstr: "Si no lo eres Explora nuestra {link1}HOME{link2}"
+
+msgid: "lptxtblog"
+msgstr: "Visita nuestro Blog"
+
+msgid: "txtyoucantcreate"
+msgstr: "Estás en la versión GRATUITA de 15 dias y solo puedes crear 1 TAB, para crear más TABS necesitas actualizar tu plan. Ve a la página de planes para actualizarlo."
+
+msgid: "txtnombrecompleto"
+msgstr: "Nombre"
+
+msgid: "txtnombre"
+msgstr: "Nombre"
+
+msgid: "txtapellidos"
+msgstr: "Apellidos"
+
+msgid: "txtemail"
+msgstr: "E-mail"
+
+msgid: "txttel"
+msgstr: "Teléfono"
+
+msgid: "txtcomment"
+msgstr: "Comentarios"
+
+msgid: "txtfanpageurl"
+msgstr: "Página de Facebook"
+
+msgid: "txtcistomsent"
+msgstr: "Su pedido está siendo procesado, vamos a comunicarnos con usted lo antes posible."
+
+msgid: "HTML Code"
+msgstr: "Código HTML"
+
+msgid: "Link"
+msgstr: "Link"
+
+msgid: "Image cover"
+msgstr: "Imagen de Portada"
+
+msgid: "Show Title"
+msgstr: "Mostrar Título"
+
+msgid: "Display mode"
+msgstr: "Modo de Visualización"
+
+msgid: "Number of Feeds"
+msgstr: "Numero de Feeds"
+
+msgid: "Video URL"
+msgstr: "URL del Vídeo"
+
+msgid: "Watch in HD"
+msgstr: "Ver en HD"
+
+msgid: "Playlist URL"
+msgstr: "URL de Lista de Reproduccon"
+
+msgid: "Autoplay"
+msgstr: "Autoreproducir"
+
+msgid: "Random"
+msgstr: "Aleatorio"
+
+msgid: "URL to share"
+msgstr: "URL para compartir"
+
+msgid: "AddThis ID"
+msgstr: "Agregar este ID"
+
+msgid: "Style"
+msgstr: "Estilo"
+
+msgid: "Videos"
+msgstr: "Videos"
+
+msgid: "Image"
+msgstr: "Imagen"
+
+msgid: "Query"
+msgstr: "Pregunta"
+
+msgid: "Title"
+msgstr: "Título"
+
+msgid: "Sub Title"
+msgstr: "Subtítulo"
+
+msgid: "Background color of the widget"
+msgstr: "Color de fondo del widget"
+
+msgid: "Background color of the tweets"
+msgstr: "Color de fondo de los tweets"
+
+msgid: "Letter color"
+msgstr: "Color de letra"
+
+msgid: "Links color"
+msgstr: "Color de Link"
+
+msgid: "URL to channel or recorded video"
+msgstr: "URL de canal o de vídeo grabado"
+
+msgid: "URL to like"
+msgstr: "URL para hacer Like"
+
+msgid: "Send Button"
+msgstr: "Botón Enviar"
+
+msgid: "Layout Style"
+msgstr: "Estilo de capa"
+
+msgid: "Show faces"
+msgstr: "Mostrar caras"
+
+msgid: "Verb to display"
+msgstr: "Acción para mostrar"
+
+msgid: "Color Scheme"
+msgstr: "Combinación de colores"
+
+msgid: "Always post to friends"
+msgstr: "Siempre postear amigos"
+
+msgid: "Twitter ID"
+msgstr: "ID de Twitte"
+
+msgid: "Feed URL"
+msgstr: "Feed URL"
+
+msgid: "Delicious URL"
+msgstr: "URL de Delicious"
+
+msgid: "My Space URL"
+msgstr: "URL de My Space"
+
+msgid: "Yahoo ID"
+msgstr: "ID Yahoo"
+
+msgid: "Skype ID"
+msgstr: "ID Skype"
+
+msgid: "Windows Live Address"
+msgstr: "Dirección de Windows Live"
+
+msgid: "Google Buzz ID"
+msgstr: "ID de Google Buzz"
+
+msgid: "Youtube ID"
+msgstr: "ID de Youtube"
+
+msgid: "Images"
+msgstr: "Imágenes"
+
+msgid: "Country"
+msgstr: "País"
+
+msgid: "State/Region"
+msgstr: "Estado/Región"
+
+msgid: "City"
+msgstr: "Ciudad"
+
+msgid: "Address"
+msgstr: "Dirección"
+
+msgid: "Zoom level"
+msgstr: "Nivel de zoom"
+
+msgid: "Organization's name or Service name"
+msgstr: "Nombre de la organización o servicio"
+
+msgid: "Button style"
+msgstr: "Estilo de botón"
+
+msgid: "Item name"
+msgstr: "Nombre del elemento"
+
+msgid: "Item number"
+msgstr: "Número del elemento"
+
+msgid: "Currency"
+msgstr: "Moneda"
+
+msgid: "E-mail Address of your Paypal Account"
+msgstr: "Correo electrónico de tu cuenta Paypal"
+
+msgid: "Flikr username"
+msgstr: "Usuario de Flickr"
+
+msgid: "Picasa Album URL"
+msgstr: "URL del Álbum de Picasa"
+
+msgid: "Source"
+msgstr: "Fuente"
+
+msgid: "E-mail to send"
+msgstr: "Correo para enviar"
+
+msgid: "E-mail to receive"
+msgstr: “Correo para recibir"
+
+msgid: "Text before form"
+msgstr: "Texto antes del formulario"
+
+msgid: "Show E-mail"
+msgstr: "Mostrar Correo"
+
+msgid: "Show Name"
+msgstr: "Mostrar Nombre"
+
+msgid: "Show Phone"
+msgstr: "Mostrar Teléfono"
+
+msgid: "Show Address"
+msgstr: "Mostrar Dirección"
+
+msgid: "Show Country"
+msgstr: "Mostrar País"
+
+msgid: "Show City"
+msgstr: "Mostrar Ciudad"
+
+msgid: "Show Comments"
+msgstr: "Mostrar Comentarios"
+
+msgid: "Skype username"
+msgstr: "Usuario de Skype"
+
+msgid: "Skype Status"
+msgstr: "Estado de Skype"
+
+msgid: "Function"
+msgstr: "Función"
+
+msgid: "Skype Photo"
+msgstr: "Foto de Skype"
+
+msgid: "Business URL"
+msgstr: "URL del Negocio"
+
+msgid: "Scribd URL"
+msgstr: "URL Scribd"
+
+msgid: "Last FM Username"
+msgstr: "Usuario LastFM"
+
+msgid: "Count"
+msgstr: "Conteo"
+
+msgid: "Topic"
+msgstr: "Tema"
+
+msgid: "Dailymotion video URL"
+msgstr: "URL del Video de Daylimotion"
+
+msgid: "Foreground color"
+msgstr: "Color de primer plano"
+
+msgid: "Background color"
+msgstr: "Color de fondo"
+
+msgid: "Highlight color"
+msgstr: "Color de realce"
+
+msgid: "Group URL"
+msgstr: "URL de grupo"
+
+msgid: "Color"
+msgstr: "Color"
+
+msgid: "Zillow Username"
+msgstr: "Usuario Zillow"
+
+msgid: "End Date"
+msgstr: "Fecha de Fin"
+
+msgid: "End Time"
+msgstr: "Hora de Fin"
+
+msgid: "Ebay ID"
+msgstr: "Ebay ID"
+
+msgid: "Slideshow URL"
+msgstr: "URL de Slideshow"
+
+msgid: "Company's Linkedin"
+msgstr: "Linkedin de la Compañia"
+
+msgid: "Recipient email"
+msgstr: "Destinatario de correo"
+
+msgid: "Job title"
+msgstr: "Titulo del Trabajo"
+
+msgid: "Job location"
+msgstr: "Ubicación de trabajo"
+
+msgid: "Company logo"
+msgstr: "Logo de compañía"
+
+msgid: "Theme color"
+msgstr: "Color del Tema"
+
+msgid: "Linkedin User's profile"
+msgstr: "Perfil de Usuario de Linkedin"
+
+msgid: "Linkedin Company's profile"
+msgstr: "Perfil de compañia de Linkedin"
+
+msgid: "Product Name"
+msgstr: "Nombre del Producto"
+
+msgid: "Product Image"
+msgstr: "Imagen del Producto"
+
+msgid: "Price"
+msgstr: "Precio"
+
+msgid: "Product URL"
+msgstr: "URL del Producto"
+
+msgid: "Title color"
+msgstr: "Color del Título"
+
+msgid: "Price color"
+msgstr: "Color del Precio"
+
+msgid: "Background button"
+msgstr: "Fondo del botón"
+
+msgid: "Button's Font color"
+msgstr: "Color de Letra de Botón"
+
+msgid: "Non Fans"
+msgstr: "No Fans"
+
+msgid: "Select page"
+msgstr: "Seleccionar Página"
+
+msgid: "Select Tab"
+msgstr: "Seleccionar Tab"
+
+msgid: "Links Directory"
+msgstr: "Directorio de Enlaces"
+
+msgid: "txtcuentanos"
+msgstr: "<span style="color:#ff0000;font-size: 16px">FB Conexion es GRATIS!<br/>danos tu opinion para mejorar</span>"
+
+msgid: "teq1"
+msgstr: "Facilidad para utilizar los widgets"
+
+msgid: "teq2"
+msgstr: "Facilidad para elaborar tu Facebook Fan Page"
+
+msgid: "teq3"
+msgstr: "Plantillas amigables y útiles"
+
+msgid: "teq4"
+msgstr: "Usabilidad"
+
+msgid: "teq5"
+msgstr: "Nota Global"
+
+msgid: "teq6"
+msgstr: "Déjanos tu comentario"
+
+msgid: "Use border"
+msgstr: "Usar bordes"
+
+msgid: "Border Width"
+msgstr: "Ancho de borde"
+
+msgid: "txtenter"
+msgstr: "Entrar"
+
+msgid: "txtwelcome"
+msgstr: "Bienvenido"
+
+msgid: "txtchangepass"
+msgstr: "Cambiar Contraseña"
+
+msgid: "txtlogout"
+msgstr: "Cerrar Session"
+
+msgid: "txtpartrep1"
+msgstr: "Usuarios registrados"
+
+msgid: "txtpartrep2"
+msgstr: "Transferir Tab"
+
+msgid: "txtpartrep3"
+msgstr: "Usuarios convertidos"
+
+msgid: "txtseemore"
+msgstr: "Ver más"
+
+msgid: "formatofechamysql"
+msgstr: "%d-%m-%Y"
+
+msgid: "Register date"
+msgstr: "Fecha de registro"
+
+msgid: "Category"
+msgstr: "Categoria"
+
+msgid: "Likes"
+msgstr: "Me gusta"
+
+msgid: "Every field is mandatory"
+msgstr: "Todos los campos son obligatorios"
+
+msgid: "Password changed successfully"
+msgstr: "La contraseña fue cambiada con éxito"
+
+msgid: "Current password don't match"
+msgstr: "La contraseña actual no coincide"
+
+msgid: "Passwords don't match"
+msgstr: "Las contraseñas no coinciden"
+
+msgid: "Transfer made successfully"
+msgstr: "Transferencia realizada con éxito";
+
+msgid: "I could not verify the information"
+msgstr: "No he podido comprobar la información";
+
+msgid: "txtpicnik"
+msgstr: "Ahora puedes cerrar ésta ventana y continuar editando tu Página de Fans."
+
+msgid: "doyouwishdesign"
+msgstr: "¿Te gustaría ser contactado para el diseño de tu Página de Fans?"
+
+msgid: "titdisenodefanpage"
+msgstr: "Servicios de Diseño de Página de Fans"
+
+msgid: "Backgrounds"
+msgstr: "Fondos"
+
+msgid: "Icons"
+msgstr: "Iconos"
+
+msgid: "Buttons and Shapes"
+msgstr: "Botones y Formas"
+
+msgid: "Like Us"
+msgstr: "Sígueme"
+
+msgid: "txtdelfmanager"
+msgstr: "Si elimina éste archivo es posible que alguno de sus tabs no funcione correctamente. ¿Desea continuar con la eliminación de éste archivo?"
+
+msgid: "Lista ID"
+msgstr: "ID de lista"
+
+msgid: "Merry Christmas"
+msgstr: "Feliz Navidad"
+
+msgid: "Sending"
+msgstr: "Enviando"
+
+msgid: "Are you sure, you want to delete this comment?"
+msgstr: "¿Está seguro que desea eliminar este contenido?"
+
+msgid: "txtsuccesspublish"
+msgstr: "Ha despublicado su ficha satisfactoriamente."
+
+msgid: "txtindicaciones"
+msgstr: "Arrastra un widget al cuadro del editor y sueltalo en la ubicacion que desees."
+
+msgid: "You need to subscribe to our newsletter to get the {plan} Plan FREE"
+msgstr: "Necesitas suscribirte a nuestra newsletter para obtener el Plan {plan} GRATIS"
+
+msgid: "Get the Professional Plan for FREE by clicking <span style="#ff0000">here</span>"
+msgstr: "Obten el Plan Professional GRATIS haciendo click <span style="#ff0000">aquí</span>"
+
+msgid: "<a href="{link}" target="_blank">You need {num} friends more to get the Professional Plan <span style="color:red;">FREE!</span></a>"
+msgstr: "<a href="{link}" target="_blank">Necesitas {num} amigos más para obtener el Plan Professional <span style="color:red;">GRATIS!</span></a>"
+
+msgid: "Get the Premium Plan for FREE by clicking <span style="#ff0000">here</span>"
+msgstr: "Obten el Plan Premium GRATIS haciendo click <span style="#ff0000">aquí</span>"
+
+msgid: "<a href="{link}" target="_blank">You need {num} friends more to get the Premium Plan <span style="color:red;">FREE!</span></a>"
+msgstr: "<a href="{link}" target="_blank">Necesitas {num} amigos más para obtener el Plan Premium <span style="color:red;">GRATIS!</span></a>"
+

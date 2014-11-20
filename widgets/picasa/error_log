@@ -1,0 +1,5 @@
+[22-Jun-2011 12:14:42] PHP Warning:  include(galleryfrompicasa.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/reymundo/public_html/fb/widgets/picasa/inPicasa.php on line 2
+[22-Jun-2011 12:14:42] PHP Warning:  include(galleryfrompicasa.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/reymundo/public_html/fb/widgets/picasa/inPicasa.php on line 2
+[22-Jun-2011 12:14:42] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'galleryfrompicasa.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/reymundo/public_html/fb/widgets/picasa/inPicasa.php on line 2
+[22-Jun-2011 12:14:42] PHP Fatal error:  Class 'GalleryFromPicasa' not found in /home/reymundo/public_html/fb/widgets/picasa/inPicasa.php on line 3
+[22-Jun-2011 12:15:34] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/reymundo/public_html/fb/widgets/picasa/galleryfrompicasa.class.php on line 55
